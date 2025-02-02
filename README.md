@@ -1,7 +1,12 @@
-# AntLab - Ant Colony Optimization Simulation (01.11.2020 Belgorod State Technological University)
+# AntLab - Ant Colony Optimization Simulation 
 
 ## Overview
 AntLab is a Windows desktop application developed in C# using WPF. It simulates the Ant Colony Optimization (ACO) algorithm to solve optimization problems, particularly the Traveling Salesman Problem (TSP). The application visualizes the behavior of ants as they search for the shortest path in a graph-based environment.
+
+![plot](./Screenshot.png)
+
+
+01.11.2020, Belgorod State Technological University, 2nd year, course on the fundamentals of artificial intelligence
 
 ## Features
 - **Graph Visualization:** Displays the environment where ants traverse nodes and edges.
